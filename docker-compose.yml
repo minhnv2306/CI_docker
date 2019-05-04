@@ -5,7 +5,7 @@ services:
       context: ./docker
       dockerfile: Dockerfile-ubuntu
     volumes:
-      - ./blog:/var/www/html/blog
+      - ./codeigniter_demo:/var/www/html/codeigniter_demo
   mariadb:
     image: mariadb
     ports:

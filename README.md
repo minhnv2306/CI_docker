@@ -3,7 +3,7 @@
 ```
 $ git clone https://github.com/minhnv2306/docker-fuel.git
 $ cd docker-fuel
-$ git clone https://github.com/minhnv2306/authencation_fuelphp.git blog
+$ git clone git@github.com:minhnv2306/codeigniter_demo.git
 ```
 * Run docker-compose
 ```
